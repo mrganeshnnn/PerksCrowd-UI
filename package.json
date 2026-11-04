@@ -60,6 +60,6 @@
     "tailwindcss-animate": "^1.0.7",
     "ts-jest": "^29.4.15",
     "typescript": "^5.9.3",
-    "wrangler": "^4.151.1"
+    "wrangler": "^4.157.0"
   }
 }
